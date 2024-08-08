@@ -4,7 +4,7 @@
 ## Description
 Spoken Mandarin audio data under noisy environment captured by mobile phone, it is recorded by 203 speakers from all over China, covering all major dialect regions; and a variety of noise scenes such as subways, supermarkets, restaurants, etc., more suitable for real application scenes; it can be used for automatic speech recognition, machine translation, and voiceprint recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/191?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/speechrecog/191?source=Github
 
 
 ## Format
